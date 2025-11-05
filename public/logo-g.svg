@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#000000"/>
+
+  <g transform="translate(256, 256)">
+    <!-- Left vertical stroke (inclinado como no B) -->
+    <polygon points="-70,-185 -10,-200 -10,185 -70,200" fill="#FFFFFF"/>
+
+    <!-- Top horizontal stroke -->
+    <polygon points="-10,-200 130,-185 120,-125 -10,-140" fill="#FFFFFF"/>
+
+    <!-- Right vertical stroke superior -->
+    <polygon points="120,-125 130,-185 75,-170 65,-110" fill="#FFFFFF"/>
+
+    <!-- Bottom horizontal stroke -->
+    <polygon points="-10,185 110,170 110,110 -10,125" fill="#FFFFFF"/>
+
+    <!-- Middle horizontal bar (indo pra dentro do G) -->
+    <polygon points="40,5 110,0 110,-55 40,-50" fill="#FFFFFF"/>
+
+    <!-- Triangular cut detail -->
+    <polygon points="40,5 40,-50 20,-22" fill="#000000"/>
+  </g>
+</svg>
